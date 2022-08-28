@@ -27,6 +27,7 @@
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.18614130434782608" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.21280975341796876" />
         <entry key="app/src/main/res/layout/activity_settings.xml" value="0.18607177734375013" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.22871376811594202" />
         <entry key="app/src/main/res/layout/fragment_booking.xml" value="0.22871376811594202" />
         <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.22871376811594202" />
         <entry key="app/src/main/res/layout/fragment_home.xml" value="0.22871376811594202" />

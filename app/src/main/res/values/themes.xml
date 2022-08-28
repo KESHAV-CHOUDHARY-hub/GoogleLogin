@@ -34,5 +34,16 @@
         <item name="colorSwitchThumbNormal">#FFFFFF</item>
         <item name="android:colorForeground">#99FFFFFF</item>
     </style>
+    <style name="Theme.GoogleLogin.Fullscreen" parent="Theme.GoogleLogin">
+        <item name="android:actionBarStyle">@style/Widget.Theme.GoogleLogin.ActionBar.Fullscreen
+        </item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+
+    <style name="ThemeOverlay.GoogleLogin.FullscreenContainer" parent="">
+        <item name="fullscreenBackgroundColor">@color/light_blue_600</item>
+        <item name="fullscreenTextColor">@color/light_blue_A200</item>
+    </style>
 
 </resources>
